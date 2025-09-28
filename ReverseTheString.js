@@ -1,4 +1,4 @@
-function stringReverse(){
+function stringReverse(str){
 let str ="testleaf";
 let rev="";
 
